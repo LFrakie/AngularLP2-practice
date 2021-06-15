@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# AngularLP2 F debian 10 DEV B
-=======
-# AngularLP2 F debian 10 dev
-
->>>>>>> 659f62311c358a3cac3c695e27b73cfb1975d066
+# AngularLP2 F debian 10 U U
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
